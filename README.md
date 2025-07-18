@@ -13,8 +13,8 @@ This repo showcases a collection of my **startup web app demos**. Each idea feat
 
 | Number | Logo | App Name | Live Demo | Description |
 |--------|------|----------|-----------|-------------|
-| #1 | <img src="apps/web-apps/universa/universa.png" alt="App #1 Logo" width="80" height="64" /> | **Universa** | [View Demo](https://fonij80.github.io/universa-client/) | Find Your Perfect Academic Journey |
-| #2 | <img src="apps/web-apps/wizzylist/wizzylist" alt="App #1 Logo" width="64" height="64" /> | **WizzyList** | [View Demo](https://your-username.github.io/wizzylist-client) | Your Magical Wishlist |
+| #1 | <img src="apps/web-apps/universa/universa.png" alt="App #1 Logo" width="72" height="64" /> | **Universa** | [View Demo](https://fonij80.github.io/universa-client/) | Find Your Perfect Academic Journey |
+| #2 | <img src="apps/web-apps/wizzylist/wizzylist.png" alt="App #1 Logo" width="72" height="64" /> | **WizzyList** | [View Demo](https://your-username.github.io/wizzylist-client) | Your Magical Wishlist |
 
 
 
